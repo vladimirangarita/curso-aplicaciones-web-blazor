@@ -1,7 +1,7 @@
 ## 📖 Descripción del Proyecto
 
 Esta aplicación web ha sido desarrollada utilizando **Blazor WebAssembly** tras culminar el [Curso de Blazor WebAssembly de Platzi](https://platzi.com/cursos/blazor-webassembly/). 
-
+<img width="1911" height="972" alt="BlazorGit" src="https://github.com/user-attachments/assets/f05b6b07-1114-4f65-aca5-d4d2b46351ff" />
 El proyecto demuestra la integración y consumo de servicios RESTful interactuando directamente con la [Platzi Fake Store API](https://fakeapi.platzi.com/), permitiendo listar productos, explorar categorías y gestionar la interfaz de usuario de manera dinámica, rápida y enteramente del lado del cliente.
 
 ## ✨ Características Principales
@@ -51,7 +51,7 @@ Para ejecutar este proyecto en su propio entorno, tenga la bondad de seguir esto
 - `Models/`: Clases de C# que tipan de forma segura las respuestas JSON de la API.
 
 ## 👨‍💻 Autor
-<img width="1911" height="972" alt="BlazorGit" src="https://github.com/user-attachments/assets/f05b6b07-1114-4f65-aca5-d4d2b46351ff" />
+
 
 
 **Vladimir Angarita**  
